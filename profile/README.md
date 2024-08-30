@@ -6,8 +6,6 @@ At [Canopas](https://canopas.com/), we develop amazing products to help entrepre
 
 We also give back to the community by working on open-source projects. Check out our open-source projects. 
 
-[![Canopas's GitHub stats](https://github-readme-stats.vercel.app/api?username=canopas&show_icons=true&theme=transparent)](https://github.com/canopas/)
-
 ## Current Projects
 
 Curious about our latest endeavors? Check out some of our recent and ongoing projects:
