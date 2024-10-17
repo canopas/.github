@@ -6,12 +6,15 @@ At [Canopas](https://canopas.com/), we develop amazing products to help entrepre
 
 We also give back to the community by working on open-source projects. Check out our open-source projects. 
 
+![Total Stars](https://img.shields.io/github/stars/canopas?style=for-the-badge&logo=github&label=GitHub%20Stars)
+
 ## Current Projects
 
 Curious about our latest endeavors? Check out some of our recent and ongoing projects:
 
 ### Flutter
 * [Khelo - From Streets to Stadiums🏏](https://github.com/canopas/khelo) — An open-source alternative to CricHeroes. Built using Flutter and Firebase with Riverpod architecture.
+* [GroupTrack - Stay connected, Anywhere!](https://github.com/canopas/group-track-flutter) - An open-source Flutter application designed to enhance family safety 👫 through real-time location sharing 📍 and communication features 💬.
 * [Cloud Gallery 🖼️ ](https://github.com/canopas/cloud-gallery) — Effortlessly access and organize your photos/videos from Google Drive, Dropbox, and your device.
 * [Unity](https://github.com/canopas/canopas_unity) — Leave & Employee Management for small businesses. Built using Flutter and Firebase with Bloc architecture.
 * [Animated Reorderable List](https://github.com/canopas/animated_reorderable_list) — A Flutter Reorderable Animated List with simple implementation and smooth transition.
@@ -21,7 +24,7 @@ Curious about our latest endeavors? Check out some of our recent and ongoing pro
 
 
 ### Native Android(Kotlin)
-* [YourSpace](https://github.com/canopas/your-space-android) — An open-source Android app employing MVVM architecture and Jetpack Compose. Enhance family safety with real-time location sharing.
+* [GroupTrack](https://github.com/canopas/group-track-android) — An open-source Android app employing MVVM architecture and Jetpack Compose. Enhance family safety with real-time location sharing.
 * [Intro Showcase View](https://github.com/canopas/compose-intro-showcase) — Highlight different features of the app using Jetpack Compose.
 * [Jetpack Compose Animations](https://github.com/canopas/compose-animations-examples) — Cool animations implemented with Jetpack Compose
 * [AnimatedBottomBarCompose](https://github.com/canopas/compose-animated-navigationbar) — Animated navigation bars for your compose Android app.
