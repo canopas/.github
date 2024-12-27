@@ -61,4 +61,4 @@ Curious about our latest endeavors? Check out some of our recent and ongoing pro
 * [Serverless microservice example in Golang](https://github.com/canopas/serverless-microservice-example)
 
 
-[[Blog](https://canopas.com/blog/)]   |   [[X](https://x.com/canopas_eng)]   |   [[Contact](https://canopas.com/contact)]
+[[Blog](https://canopas.com/blog/)]   |   [[X](https://x.com/canopassoftware)]   |   [[Contact](https://canopas.com/contact)]
