@@ -13,10 +13,6 @@ We also give back to the community by working on open-source projects. Check out
 Curious about our latest endeavors? Check out some of our recent and ongoing projects:
 
 ### Flutter
-* [Khelo - From Streets to Stadiums🏏](https://github.com/canopas/khelo) — An open-source alternative to CricHeroes. Built using Flutter and Firebase with Riverpod architecture.
-* [GroupTrack - Stay connected, Anywhere!](https://github.com/canopas/group-track-flutter) - An open-source Flutter application designed to enhance family safety 👫 through real-time location sharing 📍 and communication features 💬.
-* [Cloud Gallery 🖼️ ](https://github.com/canopas/cloud-gallery) — Effortlessly access and organize your photos/videos from Google Drive, Dropbox, and your device.
-* [Unity](https://github.com/canopas/canopas_unity) — Leave & Employee Management for small businesses. Built using Flutter and Firebase with Bloc architecture.
 * [Animated Reorderable List](https://github.com/canopas/animated_reorderable_list) — A Flutter Reorderable Animated List with simple implementation and smooth transition.
 * [Flutter Country Picker](https://github.com/canopas/flutter-country-picker) — A Simple, Customizable Flutter Country picker for picking a Country or Dialing code with Search functionality.
 * [Animated Visibility](https://github.com/canopas/animated-visibility) — Animate appearance and disappearance using pre-built effects with the AnimatedVisibility widget.
@@ -24,7 +20,6 @@ Curious about our latest endeavors? Check out some of our recent and ongoing pro
 
 
 ### Native Android(Kotlin)
-* [GroupTrack](https://github.com/canopas/group-track-android) — An open-source Android app employing MVVM architecture and Jetpack Compose. Enhance family safety with real-time location sharing.
 * [Intro Showcase View](https://github.com/canopas/compose-intro-showcase) — Highlight different features of the app using Jetpack Compose.
 * [Jetpack Compose Animations](https://github.com/canopas/compose-animations-examples) — Cool animations implemented with Jetpack Compose
 * [AnimatedBottomBarCompose](https://github.com/canopas/compose-animated-navigationbar) — Animated navigation bars for your compose Android app.
@@ -36,7 +31,6 @@ Curious about our latest endeavors? Check out some of our recent and ongoing pro
 
 
 ### Native iOS(Swift)
-* [Splito](https://github.com/canopas/splito) — An open-source alternative to Splitwise.
 * [UIPilot](https://github.com/canopas/UIPilot) — The missing typesafe SwiftUI navigation library.
 * [SwiftUI Animations](https://github.com/canopas/swiftui-animations-examples) — Cool animations implemented with SwiftUI
 * [RichEditorSwiftUI](https://github.com/canopas/rich-editor-swiftui) — RichEditorSwiftUI is a Swift-based library designed to simplify rich text editing with SwiftUI.
@@ -46,7 +40,6 @@ Curious about our latest endeavors? Check out some of our recent and ongoing pro
 
 
 ### Web Backend, FrontEnd, React, Vue.js, Next.js, Nuxt.js, TailwindCSS, & Other
-* [Bite Space](https://github.com/canopas/bite-space) – A food web app for food lovers built with Nextjs to discover popular foods and restaurants/cafes near you or where you want.
 * [Canopas Website](https://github.com/canopas/canopas-website) — Responsive website built with Vue.js and Vite by following best practices.
 * [Feature-Rich Blog Admin Platform](https://github.com/canopas/canopas-blog-admin) — Feature-Rich blogs admin panel built with Strapi CMS
 * [Tagsinput plugin for Strapi with suggestions](https://github.com/canopas/strapi-plugin-tagsinput) — This plugin is used to add tagsinput in your strapi admin panel.
